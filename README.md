@@ -1,53 +1,56 @@
 ### Hi there 👋
 
-<!--
-**sibrash4/sibrash4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+**sibrash4/sibrash4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
+![Hi, I'm Shaukat!](https://lee.so/images/hi-im-nanxiaobei.svg)
 
-![](https://lee.so/images/hi-im-nanxiaobei.svg)
+### Welcome to My GitHub Profile!
 
-### Hi there, I'm 南小北 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sibrash4&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=151515&hide_title=true&show_icons=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nanxiaobei&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
-
-- 🍭 Find fun on my site [**lee.so**](https://lee.so/)
-- 🌱 Follow me on [**Twitter**](https://twitter.com/nanxiaobei) or [**Instagram**](https://www.instagram.com/nan.xiaobei/)
-- 🗞 Read stories since 2008 on my [**blog**](https://lee.so/blog)
-- 📔 Read FE tech articles on my [**Retalk**](https://lee.so/retalk)
-- 💯 Get your web design done on [**21beats**](https://21beats.com/)
-- 🧭 Checkout slides(PPT) about FE on [**slides**](https://slides.com/retalk)
-- 😇 Talk to me via [**Email**](mailto:nanxiaobei@gmail.com)
-
-A designer, a writer, a front-end developer. with React ⚛️ and Vue ♻️ skills.
-
-Love simple things and make things simple ❤️. especially, I make simple React libraries, I contribute to make the React ⚡️ world simpler, not complexity and chaos 🗡.
+- 🔭 I’m currently working on innovative financial models and analytics tools.
+- 🌱 I’m learning advanced data science techniques and exploring AI applications in finance.
+- 👯 I’m looking to collaborate on open-source projects related to finance and data analytics.
+- 🤔 I’m seeking advice on career growth in investment banking and finance.
+- 💬 Ask me about my experience as an investment banking analyst intern at SMBC.
+- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring the intersection of technology and finance!
 
 ---
 
-Repos:
+### My Recent Projects:
 
-- 🏝 [react-live-island](https://github.com/nanxiaobei/react-live-island) Dynamic Island for React
-- 🧿 [solid-react](https://github.com/nanxiaobei/solid-react) ˏˋSignalsˎˊ for React
-- 🏏 [react-split-components](https://github.com/nanxiaobei/react-split-components) A new way of Function Components without Hooks
-- 🏄‍♂️ [react-slide-routes](https://github.com/nanxiaobei/react-slide-routes) The easiest way to slide React routes
-- ♒ [react-easy-contexts](https://github.com/nanxiaobei/react-easy-contexts) A simple tool to add multiple React contexts easily
-- 🕊 [react-spring-dnd](https://github.com/nanxiaobei/react-spring-dnd) A deadly simple drag and drop solution using react-spring
-- 📮 [taro-ux-kits](https://github.com/nanxiaobei/taro-ux-kits) Taro 小程序的用户体验优化 × 7
-- 🦋 [front-end-dev-guide](https://github.com/nanxiaobei/front-end-dev-guide) 前端开发行为指导规范
-- 🛏 [stylelint-config-one](https://github.com/nanxiaobei/stylelint-config-one) All-in-one stylelint config
+- 📈 [Financial Analytics Tool](https://github.com/sibrash4/financial-analytics-tool) - A comprehensive tool for market analysis.
+- 💹 [Investment Strategy Simulator](https://github.com/sibrash4/investment-strategy-simulator) - Simulate and analyze various investment strategies.
+- 🏦 [Banking Sector Analysis](https://github.com/sibrash4/banking-sector-analysis) - Deep dive into banking sector trends and forecasts.
 
+---
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Connect with Me</h2>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/sibrash4/">LinkedIn</a> ·
+  <a href="https://twitter.com/sibrash4">Twitter</a>
+ </p>
+</p>
 
-[![Sibrah4's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibrash4)](https://github.com/sibrash4/github-readme-stats)
+<p align="center">
+  <a href="https://sibrash4.github.io/portfolio/">🌍 Check out my portfolio</a>
+</p>
+
+<p align="center">💼 Any feedback or inquiries? Feel free to reach out!</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibrash4&layout=compact" alt="Shaukat's Top Languages" />
+</p>
+
+---
+
+#### Support My Work
+<p align="center">
+  If you appreciate my work, consider starring a few of my repositories! 🌟
+</p>
