@@ -4,7 +4,7 @@
 **sibrash4/sibrash4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-![Hi, I'm Shaukat!](https://lee.so/images/hi-im-nanxiaobei.svg)
+![Hi, I'm Shaukat!](https://sibrahim.io)
 
 ### Welcome to My GitHub Profile!
 
@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on open-source projects related to finance and data analytics.
 - 🤔 I’m seeking advice on career growth in investment banking and finance.
 - 💬 Ask me about my experience as an investment banking analyst intern at SMBC.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:dev@sibrahim.io)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring the intersection of technology and finance!
 
