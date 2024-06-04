@@ -19,18 +19,13 @@
 I'm passionate about building the future of finance by harnessing the power of technology. I combine a solid foundation in **data analysis, financial modeling, and programming (Python, React, Java, C++)** to craft innovative solutions for a dynamic market. I thrive on turning complex financial challenges into streamlined, data-driven opportunities.
 
 ## Skills
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only" title="Code Maestro:My Digital Dialect"><br>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only" title="Code Maestro:My Digital Dialect"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=moltack#gh-light-mode-only" alt="Shaukat's GitHub stats" title="Shaukat's GitHub stats"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=merko#gh-dark-mode-only" alt="Shaukat's GitHub stats" title="Shaukat's GitHub stats">
+</p>
 
-<div class="flex justify-between mx-4 mb-8">
-  <!-- Skill Card 1: Technical Proficiency -->
-  <a href="https://github.com/sibrash4" class="mr-2 w-1/2">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibrash4&layout=compact&langs_count=7&card_width=400&custom_title=💻 Technical Skills&title_color=fff&text_color=e6edf2&icon_color=79ff97&bg_color=238636&hide=python&exclude_repo=financial-analytics-tool,investment-strategy-simulator,banking-sector-analysis" />
-  </a>
-
-  <!-- Skill Card 2: Data & Finance Expertise -->
-  <a href="https://github.com/sibrash4" class="ml-2 w-1/2">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&layout=compact&langs_count=10&card_width=400&custom_title=📊 Data & Finance Toolkit&title_color=238636&text_color=e6edf2&icon_color=79ff97&bg_color=0d1117" />
-  </a>
-</div>
 
 ## 🚀 Featured Projects
 
