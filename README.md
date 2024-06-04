@@ -4,13 +4,14 @@
     <h1 class="text-4xl font-bold">Hello, I'm Shaukat </h1>
   </header>
 
-  <section class="text-center mb-6">
-    <img class="mx-auto my-2 rounded-lg shadow-lg" src="Banner.jpeg" alt="Banner Image">
-    <div class="mx-4 py-2 rounded-lg bg-white shadow-md">
-      <p class="italic">Tech-Savvy Finance Enthusiast | Dreaming, believing, and working to make it a possibility.</p>
-    </div>
-    <p class="mx-4 mt-4 italic">Contributing to the world and finding happiness, architecting the future of financial analytics.</p>
-  </section>
+<section class="text-center mb-6">
+  <div class="mx-auto my-2 rounded-lg overflow-hidden shadow-lg">
+    <img class="w-full" src="Banner.jpeg" alt="Banner Image">
+  </div>
+  <div class="mx-auto max-w-md py-2 rounded-lg bg-white shadow-md">
+    <p class="italic">Tech-Savvy Finance Enthusiast | Dreaming, believing, and working to make it a possibility.</p>
+  </div>
+</section>
 </div>
 
 
