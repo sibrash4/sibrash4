@@ -9,20 +9,26 @@ _Tech-Savvy Finance Enthusiast | Architecting the Future of Financial Analytics_
 
 I'm passionate about building the future of finance by harnessing the power of technology. I combine a solid foundation in **data analysis, financial modeling, and programming (Python, React, Java, C++)** to craft innovative solutions for a dynamic market. I thrive on turning complex financial challenges into streamlined, data-driven opportunities.
 
-## ✨ Skills Spotlight
+##  ✨  Skills Spotlight
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=financial-analytics-tool&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true)](https://github.com/sibrash4/financial-analytics-tool) [![](https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=investment-strategy-simulator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true)](https://github.com/sibrash4/investment-strategy-simulator)
+<a href="https://github.com/sibrash4/financial-analytics-tool">
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=financial-analytics-tool&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true" />
+</a>
+<a href="https://github.com/sibrash4/investment-strategy-simulator">
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=investment-strategy-simulator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true" />
+</a> 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br> 
 
-<!-- Skill Card 1: Technical Proficiency --> [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sibrash4&layout=compact&langs_count=7&card_width=400&custom_title=💻 Technical Skills&title_color=fff&text_color=e6edf2&icon_color=79ff97&bg_color=238636&hide=python&exclude_repo=financial-analytics-tool,investment-strategy-simulator,banking-sector-analysis)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Skill Card 1: Technical Proficiency  -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibrash4&layout=compact&langs_count=7&card_width=400&custom_title=💻 Technical Skills&title_color=fff&text_color=e6edf2&icon_color=79ff97&bg_color=238636&hide=python&exclude_repo=financial-analytics-tool,investment-strategy-simulator,banking-sector-analysis"  />
+</a>
 
-<!-- Skill Card 2: Data & Finance Expertise --> [![](https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&layout=compact&langs_count=10&card_width=400&custom_title=📊 Data & Finance Toolkit&title_color=238636&text_color=e6edf2&icon_color=79ff97&bg_color=0d1117)](https://github.com/anuraghazra/convoychat)
+<!-- Skill Card 2:  Data & Finance Expertise-->
+<a href="https://github.com/anuraghazra/convoychat">
+  <img  width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&layout=compact&langs_count=10&card_width=400&custom_title=📊 Data & Finance Toolkit&title_color=238636&text_color=e6edf2&icon_color=79ff97&bg_color=0d1117"  />
+</a>
 
 ## 🚀 Featured Projects
 
