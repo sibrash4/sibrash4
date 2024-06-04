@@ -11,11 +11,16 @@ I'm passionate about building the future of finance by harnessing the power of t
 
 ## ✨ Skills Spotlight
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=financial-analytics-tool&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true)](https://github.com/sibrash4/financial-analytics-tool) [![](https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=investment-strategy-simulator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true)](https://github.com/anuraghazra/convoychat)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=financial-analytics-tool&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true)](https://github.com/sibrash4/financial-analytics-tool) [![](https://github-readme-stats.vercel.app/api/pin/?username=sibrash4&repo=investment-strategy-simulator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=073642&show_owner=true)](https://github.com/sibrash4/investment-strategy-simulator)
 
-<br><br><br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<!-- Skill Card 1: Technical Skills --> [![](https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=💻 My Tech Stack&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=151515&hide_title=false&show_icons=true&hide=stars,commits,prs,issues&show=reviews,discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Skill Card 1: Technical Proficiency --> [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sibrash4&layout=compact&langs_count=7&card_width=400&custom_title=💻 Technical Skills&title_color=fff&text_color=e6edf2&icon_color=79ff97&bg_color=238636&hide=python&exclude_repo=financial-analytics-tool,investment-strategy-simulator,banking-sector-analysis)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Skill Card 2: Data & Finance Expertise --> [![](https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&layout=compact&langs_count=10&card_width=400&custom_title=📊 Data & Finance Toolkit&title_color=238636&text_color=e6edf2&icon_color=79ff97&bg_color=0d1117)](https://github.com/anuraghazra/convoychat)
 
