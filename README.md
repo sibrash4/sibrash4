@@ -1,23 +1,17 @@
-<link
-  href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css"
-  rel="stylesheet"
-/>
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
 <div class="min-h-screen bg-gray-100 text-gray-800">
   <header class="text-center py-4">
-    <h1 class="text-4xl font-bold">Hello, I'm Shaukat</h1>
+    <h1 class="text-4xl font-bold">Hello, I'm Shaukat </h1>
   </header>
 
-  <section class="text-center mb-6">
-    <div class="mx-auto my-2 rounded-lg overflow-hidden shadow-lg">
-      <img class="w-full" src="Banner.jpeg" alt="Banner Image" />
-    </div>
-    <div class="mx-auto max-w-md py-2 rounded-lg bg-white shadow-md">
-      <p class="italic">
-        Tech-Savvy Finance Enthusiast | Dreaming, believing, and working to make
-        it a possibility.
-      </p>
-    </div>
-  </section>
+<section class="text-center mb-6">
+  <div class="mx-auto my-2 rounded-lg overflow-hidden shadow-lg">
+    <img class="w-full" src="Banner.jpeg" alt="Banner Image">
+  </div>
+  <div class="mx-auto max-w-md py-2 rounded-lg bg-white shadow-md">
+    <p class="italic">Tech-Savvy Finance Enthusiast | Dreaming, believing, and working to make it a possibility.</p>
+  </div>
+</section>
 </div>
 
 
@@ -27,24 +21,12 @@ I'm passionate about building the future of finance by harnessing the power of t
 
 ## Skills
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only" title="Code Maestro:My Digital Dialect">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only" alt="Code Maestro:My Digital Dialect">
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only" title="Code Maestro:My Digital Dialect">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only" alt="Code Maestro:My Digital Dialect">
-    </a>
-  </div>
-  <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=moltack#gh-light-mode-only" title="Shaukat's GitHub stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=moltack#gh-light-mode-only" alt="Shaukat's GitHub stats">
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=merko#gh-dark-mode-only" title="Shaukat's GitHub stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=merko#gh-dark-mode-only" alt="Shaukat's GitHub stats">
-    </a>
-  </div>
-</div>
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only" title="Code Maestro: My Digital Dialect"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only" alt="Code Maestro: My Digital Dialect"></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only" title="Code Maestro: My Digital Dialect"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only" alt="Code Maestro: My Digital Dialect"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=moltack#gh-light-mode-only" alt="Shaukat's GitHub stats" title="Shaukat's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=merko#gh-dark-mode-only" alt="Shaukat's GitHub stats" title="Shaukat's GitHub stats">
+</p>
 
 ## 🚀 Featured Projects
 
