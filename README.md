@@ -1,9 +1,7 @@
-<!-- Banner with a catchy tagline -->
-<!-- Tailwind CSS CDN -->
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
 <div class="min-h-screen bg-gray-100 text-gray-800">
   <header class="text-center py-4">
-    <h1 class="text-4xl font-bold">Hello, I'm Shaukat 👋</h1>
+    <h1 class="text-4xl font-bold">Hello, I'm Shaukat </h1>
   </header>
 
   <section class="text-center mb-6">
@@ -14,6 +12,7 @@
     <p class="mx-4 mt-4 italic">Contributing to the world and finding happiness, architecting the future of financial analytics.</p>
   </section>
 </div>
+
 
 ## About Me
 
