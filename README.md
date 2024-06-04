@@ -24,8 +24,8 @@ I'm passionate about building the future of finance by harnessing the power of t
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only" title="Code Maestro: My Digital Dialect"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only" alt="Code Maestro: My Digital Dialect"></a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only" title="Code Maestro: My Digital Dialect"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only" alt="Code Maestro: My Digital Dialect"></a>
-    <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=moltack#gh-light-mode-only" alt="Shaukat's GitHub stats" title="Shaukat's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=merko#gh-dark-mode-only" alt="Shaukat's GitHub stats" title="Shaukat's GitHub stats">
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=merko#gh-dark-mode-only" alt="Shaukat's GitHub stats" title="Shaukat's GitHub stats">
 </p>
 
 ## 🚀 Featured Projects
