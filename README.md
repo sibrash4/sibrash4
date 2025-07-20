@@ -1,60 +1,197 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-  <h1>
-    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-</div>
-
-<div align="center"><a href="https://www.linkedin.com/in/shaukatibrahim">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge">
-</a>
-  <a href="https://sibrahim.io">
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=glitch" alt="Portfolio Badge">
-</a>
-  <a href="mailto:dev@sibrahim.io">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge">
-</a>
-  <a href="https://cal.com/shaukat">
-  <img src="https://img.shields.io/badge/-cal.com-28673E?style=for-the-badge" alt="Cal.com Badge">
-</a></div>
+```
+  ██████  ██   ██  █████  ██    ██ ██   ██  █████  ████████ 
+ ██       ██   ██ ██   ██ ██    ██ ██  ██  ██   ██    ██    
+ ███████  ███████ ███████ ██    ██ █████   ███████    ██    
+      ██  ██   ██ ██   ██ ██    ██ ██  ██  ██   ██    ██    
+ ███████  ██   ██ ██   ██  ██████  ██   ██ ██   ██    ██    
+```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sibrash4&style=flat-square&color=blue" alt=""/>
-  <img src="Banner.jpeg" alt="Banner Image" width="100%">
-  <p class="italic">Tech-Savvy Finance Enthusiast | Dreaming, believing, and working to make it a possibility.</p>
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ████████╗███████╗ ██████╗██╗  ██╗    ███████╗ █████╗ ██╗   ██╗   ║
+║  ╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██╔════╝██╔══██╗██║   ██║   ║
+║     ██║   █████╗  ██║     ███████║    ███████╗███████║██║   ██║   ║
+║     ██║   ██╔══╝  ██║     ██╔══██║    ╚════██║██╔══██║╚██╗ ██╔╝   ║
+║     ██║   ███████╗╚██████╗██║  ██║    ███████║██║  ██║ ╚████╔╝    ║
+║     ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝  ╚═══╝     ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=%3C%2F%3E+FINANCE+%2B+TECH+ENTHUSIAST+%3C%2F%3E;%3C%2F%3E+DATA+DRIVEN+SOLUTIONS+%3C%2F%3E;%3C%2F%3E+BLOCKCHAIN+INNOVATOR+%3C%2F%3E" alt="Typing SVG" />
+
+```
+┌─┐┌─┐┌┐┌┌┐┌┌─┐┌─┐┌┬┐  ┬ ┬┬┌┬┐┬ ┬  ┌┬┐┌─┐
+│  │ │││││││├┤ │   │   ││││ │ ├─┤  │││├┤ 
+└─┘└─┘┘└┘┘└┘└─┘└─┘ ┴   └┴┘┴ ┴ ┴ ┴  ┴ ┴└─┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/shaukatibrahim)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF1B6B?style=for-the-badge&logoColor=white&labelColor=000000)](https://sibrahim.io)
+[![Email](https://img.shields.io/badge/📧_Email-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000)](mailto:dev@sibrahim.io)
+[![Calendar](https://img.shields.io/badge/📅_Schedule-45B7D1?style=for-the-badge&logoColor=white&labelColor=000000)](https://cal.com/shaukat)
+
+<img src="https://komarev.com/ghpvc/?username=sibrash4&style=for-the-badge&color=blueviolet&labelColor=000000" alt="Profile Views"/>
+
 </div>
 
-# About Me
+---
 
-Passionate about the future of finance, I leverage **data analysis, financial modeling, and programming (Python, React, Java, C++)** to craft innovative, data-driven solutions for the dynamic market. Turning complex financial challenges into streamlined opportunities is my forte.
+<div align="center">
 
-# 🔥 My Stats
+## `💾 SYSTEM_STATUS.exe`
 
-[![Code Maestro: My Digital Dialect](https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=moltack#gh-light-mode-only) [![Code Maestro: My Digital Dialect](https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=sibrash4&custom_title=Code%20Maestro:%20My%20Digital%20Dialect&layout=compact&langs_count=10&card_width=400&theme=merko#gh-dark-mode-only) ![Shaukat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibrash4&custom_title=Shaukat's%20GitHub%20Stats&rank_icon=github&hide=stars&theme=merko#gh-dark-mode-only "Shaukat's GitHub stats") [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sibrash4&theme=merko&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+```
+╔════════════════════════════════════════════════════════════════╗
+║                        >>> LOADING PROFILE <<<                ║
+║                                                                ║
+║  Status: ONLINE                 Location: Digital Realm       ║
+║  Role: Finance Tech Wizard      Mission: Innovation           ║
+║  Power Level: ████████████ 99%                                ║
+║                                                                ║
+║  > Passion for future finance: [ACTIVATED]                    ║
+║  > Data-driven solutions: [ENGAGED]                           ║
+║  > Innovation mode: [MAXIMUM OVERDRIVE]                       ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-# 🚀 Featured Projects
+</div>
 
-I have developed a Financial Analytics Tool using Python and machine learning for data-driven decision-making, built a user-friendly Non-Profit Website with React and Vue.js, and implemented a Blockchain solution on the Ethereum network to enhance financial transaction transparency and security. Additionally, I created a Custom AI Writing Assistant leveraging NLP and machine learning frameworks like TensorFlow or PyTorch to generate tailored financial market insights. I also actively contribute to open-source projects like Omnivore (Omnivore.app), jan.ai, and opnebb.
+<img src="Banner.jpeg" alt="Retro Banner" width="100%" style="border: 3px solid #00FFFF; border-radius: 10px;"/>
 
-# 🔨 Languages and Tools
+---
+
+<div align="center">
+
+## `🎮 PLAYER_STATS.dat`
+
+<img src="https://github-readme-stats.vercel.app/api?username=sibrash4&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF1B6B&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sibrash4&theme=synthwave&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF1B6B&fire=45B7D1&currStreakLabel=00FFFF" alt="GitHub Streak" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibrash4&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `💻 TERMINAL.TECH_STACK`
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                         PROGRAMMING_ARSENAL                      │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  LANGUAGES:                                                      │
+│  ▓▓▓▓▓▓▓▓▓▓ Python      ▓▓▓▓▓▓▓▓▓▓ Java       ▓▓▓▓▓▓▓▓▓▓ C++     │
+│  ▓▓▓▓▓▓▓▓▓▓ JavaScript  ▓▓▓▓▓▓▓▓▓▓ TypeScript ▓▓▓▓▓▓▓▓▓▓ SQL     │
+│                                                                  │
+│  FRAMEWORKS & LIBRARIES:                                         │
+│  ▓▓▓▓▓▓▓▓▓▓ React       ▓▓▓▓▓▓▓▓▓▓ Next.js     ▓▓▓▓▓▓▓▓▓▓ Spring  │
+│  ▓▓▓▓▓▓▓▓▓▓ Vue.js      ▓▓▓▓▓▓▓▓▓▓ Node.js     ▓▓▓▓▓▓▓▓▓▓ Flutter │
+│                                                                  │
+│  CLOUD & TOOLS:                                                  │
+│  ▓▓▓▓▓▓▓▓▓▓ AWS         ▓▓▓▓▓▓▓▓▓▓ Firebase    ▓▓▓▓▓▓▓▓▓▓ Git     │
+│  ▓▓▓▓▓▓▓▓▓▓ Docker      ▓▓▓▓▓▓▓▓▓▓ MySQL       ▓▓▓▓▓▓▓▓▓▓ MongoDB │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50" style="margin: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50" style="margin: 10px;">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nextjs,vue,nodejs,spring,flutter,aws,firebase,git,docker,mysql,mongodb,tensorflow,pytorch,html,css" alt="Tech Stack"/>
 </p>
 
-----
+</div>
+
+---
+
+<div align="center">
+
+## `🚀 FEATURED_PROJECTS.zip`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                           PROJECT SHOWCASE                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🔥 FINANCIAL ANALYTICS TOOL                                     ║
+║     └─ Python + ML for data-driven decision making              ║
+║                                                                  ║
+║  🌐 NON-PROFIT WEBSITE                                           ║
+║     └─ React + Vue.js user-friendly interface                   ║
+║                                                                  ║
+║  ⛓️  BLOCKCHAIN SOLUTION                                          ║
+║     └─ Ethereum network for transparent transactions            ║
+║                                                                  ║
+║  🤖 AI WRITING ASSISTANT                                         ║
+║     └─ NLP + TensorFlow for financial market insights           ║
+║                                                                  ║
+║  🔗 OPEN SOURCE CONTRIBUTIONS                                    ║
+║     └─ Omnivore.app │ jan.ai │ opnebb                           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `🎯 MISSION_OBJECTIVE.txt`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         CORE DIRECTIVE                         │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  > Passionate about the future of finance                      │
+│  > Leveraging data analysis & financial modeling               │
+│  > Crafting innovative, data-driven solutions                  │
+│  > Turning complex challenges into opportunities               │
+│                                                                 │
+│  "Dreaming, believing, and working to make it a possibility"   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `📊 ACTIVITY_MONITOR.log`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibrash4&theme=synthwave&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF1B6B&point=45B7D1" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║              Thank you for visiting my digital realm!            ║
+║                                                                   ║
+║           🌟 Let's build the future of finance together! 🌟       ║
+║                                                                   ║
+║       ╭─────────────────────────────────────────────────╮         ║
+║       │  "Innovation distinguishes between a leader     │         ║
+║       │   and a follower." - Steve Jobs                 │         ║
+║       ╰─────────────────────────────────────────────────╯         ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=EOF&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+</div>
+
+---
+
+<div align="center">
+<sub>🔮 Powered by retro vibes and endless caffeine 🔮</sub>
+</div>
